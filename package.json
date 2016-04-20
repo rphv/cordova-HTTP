@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wymsee/cordova-HTTP.git"
+    "url": "git+https://github.com/brendonparker/cordova-HTTP.git"
   },
   "keywords": [
     "cordova",
@@ -29,7 +29,7 @@
   "author": "Wymsee",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wymsee/cordova-HTTP/issues"
+    "url": "https://github.com/brendonparker/cordova-HTTP/issues"
   },
-  "homepage": "https://github.com/wymsee/cordova-HTTP#readme"
+  "homepage": "https://github.com/brendonparker/cordova-HTTP#readme"
 }
